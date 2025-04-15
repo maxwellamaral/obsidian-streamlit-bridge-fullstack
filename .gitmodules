@@ -1,0 +1,3 @@
+[submodule "obsidianplugin"]
+	path = obsidianplugin
+	url = https://github.com/maxwellamaral/obsidian-streamlit-bridge.git
